@@ -1,0 +1,25 @@
+{
+  "name": "angular-animate-1.5.5",
+  "version": "1.5.5",
+  "license": "MIT",
+  "main": "./angular-animate.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.5"
+  },
+  "homepage": "https://github.com/iq9891/angular-animate-1.5.5",
+  "authors": [
+    "leerb <914726892@qq.com>"
+  ],
+  "description": "angular-animate-1.5.5",
+  "keywords": [
+    "angular-animate-1.5.5"
+  ]
+}
